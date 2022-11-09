@@ -1,15 +1,23 @@
 .neymar{
     list-style: none;
+    color: blueviolet;
 }
 .messi{
     list-style: circle;
+    color: brown;
 }
 .cr7{
     list-style: square;
+    color: yellow;
 }
 .lewandoski{
     list-style: lower-roman;
+    color: yellowgreen;
 }
 .pedri{
     list-style: lower-greek;
+    color: goldenrod;
+}
+body{
+    background-color: aqua;
 }
