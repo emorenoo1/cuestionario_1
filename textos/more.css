@@ -1,0 +1,15 @@
+.neymar{
+    list-style: none;
+}
+.messi{
+    list-style: circle;
+}
+.cr7{
+    list-style: square;
+}
+.lewandoski{
+    list-style: lower-roman;
+}
+.pedri{
+    list-style: lower-greek;
+}
