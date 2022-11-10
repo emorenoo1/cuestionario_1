@@ -1,0 +1,20 @@
+nav{
+    border-bottom: blue;
+    border-bottom-style:solid ;
+    font-size: 25px;
+
+}
+.messi{
+    border-color: grey;
+    border-style: solid;
+}
+.cr7{
+    border-top-color: red;
+    border-bottom-color: red;
+    border-top-style: dotted;
+    border-bottom-style:dotted ;
+}
+.ney{
+    border-color: greenyellow;
+    border-style: dashed;
+}
